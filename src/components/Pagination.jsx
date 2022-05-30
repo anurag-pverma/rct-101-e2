@@ -8,6 +8,7 @@ const Pagination = () => {
 
   return (
     <ButtonGroup>
+      
       <Button data-cy="pagination-first-button"></Button>
       <Button data-cy="pagination-previous-button"></Button>
       <Select data-cy="pagination-limit-select">
