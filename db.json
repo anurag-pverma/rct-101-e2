@@ -77,6 +77,13 @@
       "price": "16001",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 10
+    },
+    {
+      "category": "jeans",
+      "gender": "female",
+      "price": "100000000",
+      "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
+      "id": 11
     }
   ]
 }
